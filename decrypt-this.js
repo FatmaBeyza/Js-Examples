@@ -25,3 +25,5 @@ function decryptThis(newStr) {
 decryptThis("72olle")
 decryptThis("103doo") 
 decryptThis("104olle 119dlro") 
+
+/* yeni düzenleme!!!*/
